@@ -1,0 +1,52 @@
+
+blablabla
+REG:Joska Pista,1978,BB:foloslegesadat
+ABC:Joska Pista,1978,BB
+REG:
+REG:Joska Pista
+REG:Joska Pista,1978,OTP,foloslegesadat
+REG:Joska Pista,nemszam,BB
+REG:,1978,BB
+REG:Joska  Pista,1978,BB
+REG:Rita,1978,BB
+REG:Kissne Nagy Anna Liza Dora,1978,BB
+REG:Kissne Nagy  Anna Liza,1978,BB
+REG:Joska Pi,1978,BB
+REG:Jo Pista,1978,BB
+REG:Joska pista,1978,BB
+REG:joska Pista,1978,BB
+REG:JoSka Pista,1978,BB
+REG:Polgár Jeno1,1978,BB
+REG:Nagy G&za,1978,BB
+REG:Joska Pista,1900,BB
+REG:Joska Pista,2000,BB
+REG:Joska Pista,1978,NonameBank
+REG:Joska Pista,1978,BB
+REG:Joska Pista,1968,OTP
+REG:Kiss Anna,1998,OTP
+REG:Nagy Liza Katalin,1918,Erste
+PUT:
+PUT:Joska Pista
+PUT:Joska Pista,2000,foloslegesadat
+PUT:Joska Pista,nemszam
+PUT:Ismeretlen Ember,2000
+PUT:Joska Pista,0
+PUT:Joska Pista,-2000
+PUT:Joska Pista,2000
+PUT:Joska Pista,7000
+PUT:Kiss Anna,1000
+GET:
+GET:Joska Pista
+GET:Joska Pista,2000,foloslegesadat
+GET:Joska Pista,nemszam
+GET:Ismeretlen Ember,2000
+GET:Joska Pista,0
+GET:Joska Pista,-2000
+GET:Joska Pista,100000
+GET:Joska Pista,9000
+GET:Joska Pista,1000
+PUT:Joska Pista,30000
+GET:Joska Pista,20001
+PUT:Kiss Anna,70000
+GET:Kiss Anna,5000
+GET:Kiss Anna,60000
